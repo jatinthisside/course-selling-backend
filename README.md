@@ -1,12 +1,12 @@
 # Course Selling Platform Backend
 
-This is the backend API for a simple Course Selling Platform built using Express.js, Sequelize, and MySQL. The application allows admins to manage courses, and users to register, view, and enroll in courses.
+This is the backend API for a simple Course Selling Platform built using Express.js, Sequelize, and MySQL. The application allows admins to manage courses, and users to view courses.
 
 ## Features
 
 - **User Registration**: Users can create an account by providing basic details.
 - **Admin Access**: Admins can create, update, and delete courses.
-- **Course Management**: Users can view available courses, enroll in them, and track their progress.
+- **Course Management**: Users can view available courses.
 - **Sequelize ORM**: Uses Sequelize for interacting with the MySQL database.
   
 ## Tech Stack
